@@ -3,6 +3,9 @@
 
 
 Rust build (Alkad сборка): 25086780
+
 Protocol/build: 2633
+
 Дата билда: 03.09.2026
+
 Oxide.Compiler: 1.0.32.0
